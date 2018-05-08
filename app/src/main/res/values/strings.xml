@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="view_button">View a List</string>
+    <string name="edit_button">Edit a List</string>
+    <string name="add_button">Create a New List</string>
+    <string name="delete_button">Delete a List</string>
+    <string name="enter_title">Enter a Title</string>
+    <string name="submit_button">Submit</string>
+    <string name="newItem_txt">Enter a New Item for Your List</string>
+</resources>
